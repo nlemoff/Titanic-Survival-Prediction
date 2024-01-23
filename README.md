@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of the Data Mining and Analytics class (Data 144) at UC Berkeley, where we participated in a Kaggle competition aimed at predicting the survival of passengers aboard the Titanic. Our model was among the top 10 most accurate in the class, showcasing the effectiveness of our approach in handling this classic data science problem.
+This project is part of the Data Mining and Analytics class (Data 144) at UC Berkeley, where we participated in a Kaggle competition aimed at predicting the survival of passengers aboard the Titanic. Our model was among the top 20 most accurate in the class, showcasing the effectiveness of our approach in handling this classic data science problem.
 
 ## Dataset
 
